@@ -10,3 +10,5 @@ describe('My First Test', () => {
         .type('agus@email.com')
         .should('have.value', 'agus@email.com')
     });
+    
+})
